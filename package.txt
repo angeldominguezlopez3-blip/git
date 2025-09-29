@@ -1,5 +1,4 @@
-{
-  "name": "git",
+ "name": "git",
   "version": "1.0.0",
   "description": "\"# git\" \r # git",
   "main": "index.js",
@@ -22,4 +21,3 @@
     "express": "^5.1.0",
     "firebase-admin": "^13.5.0"
   }
-}
